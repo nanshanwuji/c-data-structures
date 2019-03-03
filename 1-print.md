@@ -24,6 +24,9 @@ int main(int argc, char** argv)
     printf("hello world\n");
     return 0;
 }
+
+// 编译：gcc -o taskt1 task1.cpp
+// 执行：./task1
 ```
  
 
