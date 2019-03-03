@@ -17,6 +17,7 @@ gcc -o task1 task1.cpp
 下面请大家编写著名的hello-world程序，并编译执行
 代码可以用sublime text或者nodepad等简单的代码编辑器编写，取名task1.cpp
 ```c
+#include <stdio.h>
 int main(int argc, char** argv)
 {
     printf("hello world\n");
