@@ -13,5 +13,15 @@
 gcc -o task1 task1.cpp
 ```
 
+## Task1 - Hello World
+下面请大家编写著名的hello-world程序，并编译执行
+```c
+int main(int argc, char** argv)
+{
+    printf("hello world\n");
+    return 0;
+}
+```
+ 
 
 
